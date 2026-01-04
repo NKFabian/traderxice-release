@@ -4,15 +4,15 @@ Welcome to TraderXice releases! This repository contains installers and builds f
 
 ## About TraderXice
 
-**TraderXice** is a professional trading journal and practice management system integrated with Obsidian. It helps traders organize sessions, track trades, and manage their trading practice systematically.
+**TraderXice** is a trading journal and practice management system integrated with Obsidian. It helps traders organize sessions, track trades, and manage their trading practice systematically.
 
 ### Key Features
 - 📊 **Multi-Session Types**: Backtesting, Paper Trading, Live Trading, and Prop Firm sessions
 - 🎯 **Strategy Organization**: Organize sessions by strategy with automatic folder structure
 - 📝 **Dynamic Fields**: Customize journal fields via YAML templates
-- 🔄 **Auto-Updates**: Built-in update system for seamless upgrades
+- 🔄 **Auto-Updates**: Built-in update system for seamless upgrades - working on it
 - 🗂️ **Obsidian Integration**: Store everything in your Obsidian vault
-- 💾 **Cross-Platform**: Available for Windows, macOS, and Linux
+- 💾 **Cross-Platform**: Available for Windows, macOS, and Linux - as of now, only tested on Windows
 
 ## Getting Started
 
@@ -74,38 +74,19 @@ By default, you'll receive beta updates. To switch channels:
 - **macOS**: macOS 10.13 or later
 - **Linux**: Ubuntu 18.04 or later (or equivalent)
 - **RAM**: 200MB minimum
-- **Disk Space**: 100MB for installation + your vault size
-
-## What's New
-
-Each release includes:
-- Bug fixes and stability improvements
-- New features and enhancements
-- Performance optimizations
-- Security updates
-
-Check individual release notes for detailed changelog information.
 
 ## License
 
-TraderXice is distributed under the ISC License. See [LICENSE](https://github.com/NKFabian/traderxice/blob/main/LICENSE) in the main repository for details.
+TraderXice is distributed under the ISC License.
 
-## Contributing
-
-Interested in contributing? Visit the [main repository](https://github.com/NKFabian/traderxice) to:
-- Report bugs
-- Suggest features
-- Submit pull requests
-- Join discussions
 
 ## Security
 
 - This repository contains **installers only** - no source code is included
 - All builds are created automatically from source code in the main repository
-- You can verify the source code at [github.com/NKFabian/traderxice](https://github.com/NKFabian/traderxice)
 
 ---
 
 **Made with ☕ for traders by a trader**
 
-[Main Repository](https://github.com/NKFabian/traderxice) • [Report Issue](https://github.com/NKFabian/traderxice/issues) • [Discussions](https://github.com/NKFabian/traderxice/discussions)
+[Report Issue](https://github.com/NKFabian/traderxice/issues) • [Discussions](https://github.com/NKFabian/traderxice/discussions)
